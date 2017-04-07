@@ -14,12 +14,12 @@ Demonstrate the integration of database in your project. You may use mongodb as 
 [See Starter Code Here](https://github.com/Web-Advanced-Spring-2017/wiki/tree/master/starter-code)
 
 ## Inspiration
-[Real Time Web-Attack](http://map.norsecorp.com/#/)
-[Aviator Game](https://tympanus.net/codrops/2016/04/26/the-aviator-animating-basic-3d-scene-threejs/)
-[More Project Ideas](http://buriedinfo.com/socket-io-projects/)
-[Echo-Native](https://devpost.com/software/echo-native)
-[Histography](http://www.histography.io/)
-[Translation Party](http://www.translationparty.com)
+- [Real Time Web-Attack](http://map.norsecorp.com/#/)
+- [Aviator Game](https://tympanus.net/codrops/2016/04/26/the-aviator-animating-basic-3d-scene-threejs/)
+- [More Project Ideas](http://buriedinfo.com/socket-io-projects/)
+- [Echo-Native](https://devpost.com/software/echo-native)
+- [Histography](http://www.histography.io/)
+- [Translation Party](http://www.translationparty.com)
 
 ## Submission Details
 All the submission must be done through github to our [class organization](https://github.com/Web-Advanced-Spring-2017). The assignment will be accomodated and distributed using [GitHub Classroom](https://classroom.github.com/). GitHub classroom will automatically create a repository in our organization for each student and will grant administrative rights of that repository to that student.    
